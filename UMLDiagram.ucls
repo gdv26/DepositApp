@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="dao.ProductDAO" project="TP_Tema3" 
+    file="/TP_Tema3/src/main/java/dao/ProductDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="169" x="203" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="presentation.ProductsDialog" project="TP_Tema3" 
+    file="/TP_Tema3/src/main/java/presentation/ProductsDialog.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="165" x="412" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="dao.ClientDAO" project="TP_Tema3" 
+    file="/TP_Tema3/src/main/java/dao/ClientDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="169" x="617" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="model.Client" project="TP_Tema3" file="/TP_Tema3/src/main/java/model/Client.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="178" x="826" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="model.Order" project="TP_Tema3" file="/TP_Tema3/src/main/java/model/Order.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="179" x="1044" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="presentation.ClientsDialog" project="TP_Tema3" 
+    file="/TP_Tema3/src/main/java/presentation/ClientsDialog.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="164" x="1263" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="bll.validators.Validator" project="TP_Tema3" 
+    file="/TP_Tema3/src/main/java/bll/validators/Validator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="2260" y="742"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="dao.OrderDAO" project="TP_Tema3" file="/TP_Tema3/src/main/java/dao/OrderDAO.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="169" x="1467" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="presentation.GUI" project="TP_Tema3" 
+    file="/TP_Tema3/src/main/java/presentation/GUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="153" x="1676" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="bll.ProductBLL" project="TP_Tema3" 
+    file="/TP_Tema3/src/main/java/bll/ProductBLL.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="161" x="1869" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="presentation.OrdersDialog" project="TP_Tema3" 
+    file="/TP_Tema3/src/main/java/presentation/OrdersDialog.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="199" x="2608" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="bll.ClientBLL" project="TP_Tema3" 
+    file="/TP_Tema3/src/main/java/bll/ClientBLL.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="150" x="2070" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="model.Product" project="TP_Tema3" 
+    file="/TP_Tema3/src/main/java/model/Product.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="145" x="2847" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="bll.OrderBLL" project="TP_Tema3" file="/TP_Tema3/src/main/java/bll/OrderBLL.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="143" x="3032" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="bll.validators.EmailValidator" project="TP_Tema3" 
+    file="/TP_Tema3/src/main/java/bll/validators/EmailValidator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="140" x="2260" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="bll.validators.ClientAgeValidator" project="TP_Tema3" 
+    file="/TP_Tema3/src/main/java/bll/validators/ClientAgeValidator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="128" x="2440" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="17">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <association id="18">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="19" name="validators"/>      
+      <multiplicity id="20" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="21">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
